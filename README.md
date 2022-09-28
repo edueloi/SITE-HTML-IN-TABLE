@@ -1,6 +1,6 @@
 # Pure HTML website
 
-Projeto Unes is a fictional college, a project with the aim of studying HTML, CSS and Javascript
+Projeto Unes is a fictional college, a project with the aim of studying HTML.
 
 #### Home site screen
 
